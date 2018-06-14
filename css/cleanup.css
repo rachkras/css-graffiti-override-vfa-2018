@@ -10,6 +10,6 @@
   display: none;
 }
 
-#wall + .slick {
+.slick {
   display: none;
 }
